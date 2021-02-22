@@ -1,0 +1,2 @@
+# Minii-tuhai
+Lab2
